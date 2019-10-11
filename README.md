@@ -6,3 +6,5 @@ I lead the A01 and A04 sections (Mondays and Fridays 2-3pm), and have office hou
 __10/7/2019__
 - I forgot mention this in section, but if you have the Windows git bash, you can right click when you're in a folder and choose "git bash here" and it will open up a git bash in the directory of that folder so you don't have to keep changing diretories to go to folders you want. It's very covenient and I think it would be great for you guys to know.
 
+__10/11/2019__
+- To get assignments on DataHub, you have to first go to the "Assignments" tab and you'll see a button "Fetch" next to Assignment 1. Click that and then you can get the assignment.
