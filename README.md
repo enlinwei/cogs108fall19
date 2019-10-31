@@ -11,3 +11,6 @@ __10/11/2019__
 
 __10/29/2019__
 - To get feedback for graded assignments on DataHub, go to the "Assignments" tab and you'll see a button "Fetch Feedback" next to the assignment. Click that and then you can get the feedback for your assignment (it'll be an html file).
+
+__10/30/2019__
+- Once you submit an assignment, please DO NOT hit the submit button again, especially after the deadline! Doing so causes multiple copies of your assignment to be submitted and it can be a headache to deal with. Thanks!
